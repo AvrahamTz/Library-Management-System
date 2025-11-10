@@ -11,8 +11,7 @@ class Libarty:
         if user_id in list_of_users and  borrow_book = True:
             list_of_books.append(book_isbn)
             borrow_book = True
-            is_available = False
-
+            is_available = True
             
             
 
