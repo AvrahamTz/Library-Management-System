@@ -22,6 +22,3 @@ class Library:
         else:
             return "not avalible"
             
-librery=Library(["A"],["B"])
-print(librery.add_book("c"))
-print(librery.add_user("d"))
